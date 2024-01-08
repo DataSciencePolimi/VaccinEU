@@ -6,11 +6,10 @@ We provide public access to this data in agreement with Twitter terms of service
 
 For each language, we further collected a list of hashtags which strongly state a stance in favor or against vaccination, and we manually annotated a random sample of 1,000 tweets with four labels (Pro, Anti, Neutral, Out-of-context). We provide full access to this metadata, which can be used to better understand the polarized debate around vaccinations and train machine learning classifiers to automatically detect anti-vaccination messages.
 
-More details in our [preprint](http://arxiv.org/abs/2201.06293).
+More details in our [paper]([http://arxiv.org/abs/2201.06293](https://ojs.aaai.org/index.php/ICWSM/article/view/19374)).
 
 If you use this data please cite the following paper: <br>
-<b> VaccinEU: COVID-19 vaccine conversations on Twitter in French, German and Italian. Marco Di Giovanni, Francesco Pierri, Christopher Torres-Lugo, Marco Brambilla 
-http://arxiv.org/abs/2201.06293
+<b> Di Giovanni M, Pierri F, Torres-Lugo C, Brambilla M. VaccinEU: COVID-19 vaccine conversations on Twitter in French, German and Italian. InProceedings of the International AAAI Conference on Web and Social Media 2022 May 31 (Vol. 16, pp. 1236-1244). https://ojs.aaai.org/index.php/ICWSM/article/view/19374
 </b>
  <br>
 
